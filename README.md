@@ -1,4 +1,4 @@
-# ZombieSurvival
+# How to install
 Source files for Zombie Survival mod for Operation: Harsh Doorstop.
 
 How To Install:
