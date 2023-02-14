@@ -1,0 +1,10 @@
+{
+	"FileVersion": 1,
+	"Title": "ZombieSurvival",
+	"Description": "Round based zombie survival gamemode",
+	"PreviewImgFilename": "C:/Users/mihap/Documents/ZombieIcon.png",
+	"Changenote": "",
+	"Tags": [
+		"Gamemode"
+	]
+}
