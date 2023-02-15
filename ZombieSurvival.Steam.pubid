@@ -1,9 +1,9 @@
 {
 	"FileVersion": 1,
-	"ID": 2933671692,
-	"Title": "ZombieSurvival",
+	"ID": 2933722680,
+	"Title": "Zombie Survival",
 	"Description": "Round based zombie survival gamemode",
-	"PreviewImgFilename": "C:/Users/mihap/Documents/ZombieIcon.png",
+	"PreviewImgFilename": "C:/Users/mihap/Documents/ZombieBanner.png",
 	"Changenote": "",
 	"Tags": [
 		"Gamemode"

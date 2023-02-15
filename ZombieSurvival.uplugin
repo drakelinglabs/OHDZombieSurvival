@@ -3,15 +3,16 @@
 	"Version": 1,
 	"VersionName": "1.0",
 	"FriendlyName": "ZombieSurvival",
-	"Description": "Zombie Horde Survival Gamemode",
+	"Description": "Round based zombie survival gamemode",
 	"Category": "Other",
 	"CreatedBy": "Miha Prezelj",
-	"CreatedByURL": "",
+	"CreatedByURL": "https://www.artstation.com/mihaprezelj",
 	"DocsURL": "",
 	"MarketplaceURL": "",
 	"SupportURL": "",
 	"CanContainContent": true,
 	"IsBetaVersion": false,
 	"IsExperimentalVersion": false,
-	"Installed": false
+	"Installed": false,
+	"ExplicitlyLoaded": true
 }
