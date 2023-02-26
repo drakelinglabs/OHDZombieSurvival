@@ -1,10 +1,10 @@
 {
 	"FileVersion": 1,
-	"ID": 2933722680,
+	"ID": 2938635593,
 	"Title": "Zombie Survival",
-	"Description": "Round based zombie survival gamemode",
-	"PreviewImgFilename": "C:/Users/mihap/Documents/ZombieBanner.png",
-	"Changenote": "",
+	"Description": "Horde zombie survival gamemode",
+	"PreviewImgFilename": "C:/Users/mihap/Documents/ZombieIcon.png",
+	"Changenote": "Fixed some zombie stuck spots\r\nFixed some HUD elements\r\nGeneral quality of life improvements\r\nZombie health rebalance\r\nMatch now ends when player dies\r\nRemoved legacy nametags",
 	"Tags": [
 		"Gamemode"
 	]
